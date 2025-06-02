@@ -50,6 +50,5 @@ Password = "tu_contraseña";
 
 ## Autor
 
-Gus
 GitHub: https://github.com/GagaloGus  
 Correo: gabriel.mendez.sas@gmail.com
