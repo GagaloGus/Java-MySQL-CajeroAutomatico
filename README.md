@@ -24,7 +24,7 @@ Programa en Java que se conecta a bases de datos MySQL para simular el funcionam
 1. Clona el repositorio:
 
 ```
-git clone https://github.com/tu_usuario/Java-MySQL-CajeroAutomatico.git
+git clone https://github.com/GagaloGus/Java-MySQL-CajeroAutomatico.git
 ```
 
 2. Abre el proyecto en tu IDE (Eclipse preferiblemente)
